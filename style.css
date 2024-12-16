@@ -37,12 +37,6 @@ h2::before {
     animation: animate 6s linear infinite;
 }
 
-#example {
-  font-family: Arial;
-  font-size: 20px;
-  color: #FF7A59;
-}
-
 @keyframes animate {
 
 
