@@ -42,6 +42,7 @@ h4 {
     h1 {
   font-family: Arial, sans-serif;
     font-size: 14vw;
+        /* font-size: 30px; */
 }
 
 @keyframes animate {
